@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body {
+	background-color: darkgray;
+
+}
+
+h3 {
+	font-family: 'Krona One', sans-serif;
+}
+
+.frog {
+	background-color: #517835;
+	color: #2A2A2A;
+	width: 300px;
+	height: 150px;
+	position:relative;
+	border: 5px black;
+	border-radius: 15px
+}
