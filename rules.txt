@@ -1,0 +1,31 @@
+You cannot throw a creature. You can only throw weapons and "objects" (i.e. improvised weapons), and a creature is not an object unless it is dead. Doesn't matter if you're 20 times their size; no throwing allowed.
+
+An archer shooting blindly at a target in a heavy fog has exactly the same chance to hit as an archer shooting at a target in plain sight. If the archer closes their eyes to shoot, the penalty to hit is negated if the target has its eyes closed too.
+
+Everyone has 360 vision in combat. You can't sneak up behind someone in combat, even if you roll a 1000 on your stealth, unless you are invisible.
+
+You can't pin someone without the Grappler feat. Doesn't matter if you're 9000 pounds and they're 5 pounds. No feat, no pin. Doesn't matter if your whole party helps to try to pin one person to the ground; no feat, no pin.
+
+It doesn't matter how hard you hit someone; you will never knock them down unless you choose to do zero damage, or you do enough damage to defeat them.
+
+You can cast Mage Hand inside someone's skull and just start poking brain tissue with it, but it will never do any damage or have any mechanical effect whatsoever.
+
+You can't split move and attack on a mount. You can only move then attack, or attack then move.
+
+You can never call a shot. You can't swing for someone's legs, or try to shoot someone's weapon hand, or target the head.
+
+You can't use the broad side of your sword or the hilt to do bludgeoning damage. You can't use the haft of your spear to do bludgeoning damage. Can't slice with a dagger or short sword, you can only pierce. You cannot stab with a longsword, you can only slice.
+
+You cannot climb onto the back of a huge creature. This requires a grapple, and you can only grapple up to a Large creature. So no heroically jumping onto the back of a dragon to stab it. 
+
+Detect Evil and Good does not detect evil or good. It merely detects certain species of creatures. It has nothing to do with alignment.
+
+If you are incapacitated or unconscious, you still get to add your Dexterity to your AC.
+
+If you ready an action to cast a spell, you still expend the spell slot even if the trigger never occurs and the spell is never cast.
+
+You can hold your breath for 1 + CON minutes. Doesn't matter if you are sprinting, swimming, getting hit in the solar plexus with a warhammer. You simply don't need to breathe.
+
+Anyone with spell slots can craft a magical sword. They don't need smith's tools, raw materials, a worskhop, or any knowledge of smithing (or swords) whatsoever. All they need is 500gp and 3 weeks of downtime.
+
+It doesn't matter how talented you are, or how much time you put into it; you can never create a new spell. Even a level 30 wizard who spends 10000 years cannot create a new spell.
